@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 32px;
+  margin-right: 12px;
+}
+p{
+    color: rgb(135, 135, 141);
+}
+.home-bgp{
+  top:0;
+  right:0;
+  bottom: 0;
+  left: 0;
+  z-index: -10;
+  position:absolute;
+  
+}
+.banner-qr{
+  margin: 8px auto 0;
+  font-weight: 500;
+}
+.home-bgp img{
+  width: 100%;
+  height: 100%;
+}
+#logo{
+  height: 64px;
+  padding-left: 40px;
+  overflow: hidden;
+  color: #000000d9;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: PuHuiTi,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji,sans-serif;
+  line-height: 64px;
+  letter-spacing: -.18px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+.ant_log{
+  line-height: 64px;
+}
+.ant-input-prefix{
+  margin: 0;
+  /* vertical-align:middle; */
+  padding-top: 15px ;
+}
+
+.ant_menu{
+  padding-top: 8px;
+}
+#home-logo{
+  position: relative;
+  display: inline-block;
+  /* max-width: 500px; */
+}
+.App-logo-big{
+  padding-top: 190px;
+  width: 500px;
+  padding-bottom: 10px;
+}
+/* .container{
+  position: relative;
+  height: 800px;
+} */
+#logo-change{
+  position: absolute;
+  top:160px;
+  left: 350px;
+  width: 40px;
+  /* height: 64px; */
+}
+/* #logo-change:hover{
+  background-color: blue
+} */
+.homebtn{
+  margin-top:30px;
+}
+#btn{
+  margin: 20px;
+}
